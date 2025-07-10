@@ -1,5 +1,12 @@
 This is my first task as an intern!!
 I made a "Number Guessing Game".
+GAME WORKING:
+1.Game starts and picks a random number.
+2.User told to guess.
+3.Hints are given (too high/low).
+4.Once guessed, user is asked if they want to play again.
+5.Loop repeats if user says "yes" otherwise it ends.
+
 The code is explained as follows:
 
  (import java.util.*;)
